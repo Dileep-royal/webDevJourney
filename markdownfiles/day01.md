@@ -55,3 +55,34 @@ Many great resources out there keep referring to HTML and CSS as programming lan
 * JavaScript is a programming language,which gives you the tools that you need to alter the behavior of different elements that are found on a website page. With this tool, you can add a layer of interactivity to the CSS and HTML elements on your website.
 
 
+# HTML
+* HTML (HyperText Markup Language) defines the structure and content of webpages. We use HTML elements to create all of the paragraphs, headings, lists, images, and links that make up a typical webpage
+* Almost all elements on an HTML page are just pieces of content wrapped in opening and closing HTML tags.
+* Opening tags tell the browser this is the start of an HTML element. They are comprised of a keyword enclosed in angle brackets <>.
+* Closing tags ends the HTML element and uses a forward slash before keyword i.e,</>
+* HTML has a vast list of predefined tags that you can use to create all kinds of different elements. 
+* It is important to use the correct tags for content. 
+* Using the correct tags can have a big impact on two aspects of your sites
+1. How they are ranked in search engines 
+2. How accessible they are to users who rely on assistive technologies, like screen readers, to use the internet.
+
+## Basic Structure of HTML file
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>My First Webpage</title>
+  </head>
+
+  <body>
+    <h1>Hello World!</h1>
+  </body>
+</html>
+```
+
+* doctype declaration purpose is to tell the browser what version of HTML it should use to render the document.
+* html element is what’s known as the root element of the document and has an lang attribute to specify the language of text content.
+* head elememt consists of meta information of our web page and have descendants elements like meta & title 
+* meta element to display special characters and symbols from different languages in the browser and title element to display title on the browser's tab.
+* body element contains the actual content displayed to our user.

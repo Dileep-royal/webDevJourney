@@ -1,7 +1,7 @@
 # ===== Day-2 ====
 
 On Day-2,Get to know about the following Things:
-* HTML Elemnets and Tags
+* HTML Elements and Tags
 * Self closing HTML Tags(img,input,meta,link)
 * HTML Tag Attributes
 * Text fundamentals and listing

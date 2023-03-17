@@ -1,4 +1,4 @@
-# ===== Day-2 ====
+# ====== Day-02 ======
 
 On Day-2,Get to know about the following Things:
 * HTML Elements and Tags

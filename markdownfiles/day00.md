@@ -1,4 +1,4 @@
-## ======= Day-0 ======= ##
+## ======= Day-00 ======= ##
 Get to know about the following Things
 * Internet and how it works
 * DNS

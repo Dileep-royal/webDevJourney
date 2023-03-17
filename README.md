@@ -17,11 +17,11 @@ This repository is all about my journey towards learning & mastering web develop
 * [week-13](https://github.com/Dileep-royal/webDevJourney/blob/main/README.md#week-13) :
 # Week-0
 
-* [Day-00](https://github.com/Dileep-royal/webDevJourney/edit/main/markdownfiles/week-0/day00.md)
-* [Day-01](https://github.com/Dileep-royal/webDevJourney/edit/main/markdownfiles/week-0/day01.md)
-* [Day-02](https://github.com/Dileep-royal/webDevJourney/edit/main/markdownfiles/week-0/day02.md)
-* [Day-03]()
-* [day-04]()
+* [Day-00](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/week-0/day00.md)
+* [Day-01](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/week-0/day00.md)
+* [Day-02](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/week-0/day02.md)
+* [Day-03](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/week-0/day03.md)
+* [day-04](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/week-0/day04.md)
 
 # Week-1
 

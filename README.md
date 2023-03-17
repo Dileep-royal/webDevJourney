@@ -15,6 +15,10 @@ This repository is all about my journey towards learning & mastering web develop
 * [week-11](https://github.com/Dileep-royal/webDevJourney/blob/main/README.md#week-11) :
 * [week-12](https://github.com/Dileep-royal/webDevJourney/blob/main/README.md#week-12) :
 * [week-13](https://github.com/Dileep-royal/webDevJourney/blob/main/README.md#week-13) :
+
+# Resources:
+[30DaysChallenges](https://dev.to/somanathgoudar/30dayschallenge-30-days-extreme-html-css-challenge-50k1)
+
 # Week-0
 
 * [Day-00](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/week-0/day00.md)

@@ -4,4 +4,4 @@ This repository is all about my journey towards learning & mastering web develop
 
 * [Day-01](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/day01.md)
 * [Day-02](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/day02.md)
-* [Day-03]()
+* [Day-03](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/day03.md)

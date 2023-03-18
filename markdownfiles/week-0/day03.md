@@ -11,6 +11,7 @@ Here are the some key takeaways i have learned in this certification course:
 * Image formats -To Balance Quality Vs Size (GIF,SVG(logos),JPG,PNG)
 * Responsive Images- use srcset & sizes attributes in `<mg>` Tag
 * figure & figcaption Tags
+* picture & source tag along with srcset attribute
 
 
 **NOTE:**

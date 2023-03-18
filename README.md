@@ -16,7 +16,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [week-12](#week-12) :
 * [week-13](#week-13) :
 
-# Resources:
+# Resources to practice:
 [30DaysChallenges](https://dev.to/somanathgoudar/30dayschallenge-30-days-extreme-html-css-challenge-50k1)
 
 # Week-0
@@ -25,8 +25,8 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-01](/markdownfiles/week-0/day01.md)
 * [Day-02](/markdownfiles/week-0/day02.md)
 * [Day-03](/markdownfiles/week-0/day03.md)
-* [day-04](/markdownfiles/week-0/day04.md)
-* [day-05](/markdownfiles/week-0/day05.md)
+* [Day-04](/markdownfiles/week-0/day04.md)
+* [Day-05](/markdownfiles/week-0/day05.md)
 
 # Week-1
 
@@ -34,8 +34,8 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-01](/markdownfiles/week-1/day0.md)
 * [Day-02](/markdownfiles/week-1/day02.md)
 * [Day-03](/markdownfiles/week-1/day03.md)
-* [day-04](/markdownfiles/week-1/day04.md)
-* [day-05](/markdownfiles/week-1/day05.md)
+* [Day-04](/markdownfiles/week-1/day04.md)
+* [Day-05](/markdownfiles/week-1/day05.md)
 
 # Week-2
 
@@ -43,15 +43,17 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-01](/markdownfiles/week-2/day01.md)
 * [Day-02](/markdownfiles/week-2/day02.md)
 * [Day-03](/markdownfiles/week-2/day03.md)
-* [day-04](/markdownfiles/week-2/day04.md)
-* [day-05](/markdownfiles/week-2/day05.md)
+* [Day-04](/markdownfiles/week-2/day04.md)
+* [Day-05](/markdownfiles/week-2/day05.md)
+
 # Week-3
 
 * [Day-00]()
 * [Day-01]()
 * [Day-02]()
 * [Day-03]()
-* [day-04]()
+* [Day-04]()
+* [Day-05]()
 
 # Week-4
 
@@ -59,7 +61,8 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-01]()
 * [Day-02]()
 * [Day-03]()
-* [day-04]()
+* [Day-04]()
+* [Day-05]()
 
 # Week-5
 
@@ -67,60 +70,77 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-01]()
 * [Day-02]()
 * [Day-03]()
-* [day-04]()
+* [Day-04]()
+* [Day-05]()
+
 # Week-6
 
 * [Day-00]()
 * [Day-01]()
 * [Day-02]()
 * [Day-03]()
-* [day-04]()
+* [Day-04]()
+* [Day-05]()
+
 # Week-7
 
 * [Day-00]()
 * [Day-01]()
 * [Day-02]()
 * [Day-03]()
-* [day-04]()
+* [Day-04]()
+* [Day-05]()
+
 # Week-8
 
 * [Day-00]()
 * [Day-01]()
 * [Day-02]()
 * [Day-03]()
-* [day-04]()
+* [Day-04]()
+* [Day-05]()
+
 # Week-9
 
 * [Day-00]()
 * [Day-01]()
 * [Day-02]()
 * [Day-03]()
-* [day-04]()
+* [Day-04]()
+* [Day-05]()
+
 # Week-10
 
 * [Day-00]()
 * [Day-01]()
 * [Day-02]()
 * [Day-03]()
-* [day-04]()
+* [Day-04]()
+* [Day-05]()
+
 # Week-11
 
 * [Day-00]()
 * [Day-01]()
 * [Day-02]()
 * [Day-03]()
-* [day-04]()
+* [Day-04]()
+* [Day-05]()
+
 # Week-12
 
 * [Day-00]()
 * [Day-01]()
 * [Day-02]()
 * [Day-03]()
-* [day-04]()
+* [Day-04]()
+* [Day-05]()
+
 # Week-13
 
 * [Day-00]()
 * [Day-01]()
 * [Day-02]()
 * [Day-03]()
-* [day-04]()
+* [Day-04]()
+* [Day-05]()

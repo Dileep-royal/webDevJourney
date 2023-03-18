@@ -1,7 +1,7 @@
 # webDevJourney
 
 This repository is all about my journey towards learning & mastering web development
-* [week-0](https://github.com/Dileep-royal/webDevJourney/blob/main/README.md#week-0) :Learn About web,frontend development tools,HTML & solve some challanges
+* [week-0](#week-0) :Learn About web,frontend development tools,HTML & solve some challanges
 * [week-1](https://github.com/Dileep-royal/webDevJourney/blob/main/README.md#week-1) :
 * [week-2](https://github.com/Dileep-royal/webDevJourney/blob/main/README.md#week-2) : 
 * [week-3](https://github.com/Dileep-royal/webDevJourney/blob/main/README.md#week-3) :

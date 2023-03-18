@@ -22,26 +22,29 @@ This repository is all about my journey towards learning & mastering web develop
 # Week-0
 
 * [Day-00](/markdownfiles/week-0/day00.md)
-* [Day-01](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/week-0/day01.md)
-* [Day-02](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/week-0/day02.md)
-* [Day-03](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/week-0/day03.md)
-* [day-04](https://github.com/Dileep-royal/webDevJourney/blob/main/markdownfiles/week-0/day04.md)
+* [Day-01](/markdownfiles/week-0/day01.md)
+* [Day-02](/markdownfiles/week-0/day02.md)
+* [Day-03](/markdownfiles/week-0/day03.md)
+* [day-04](/markdownfiles/week-0/day04.md)
+* [day-05](/markdownfiles/week-0/day05.md)
 
 # Week-1
 
-* [Day-00]()
-* [Day-01]()
-* [Day-02]()
-* [Day-03]()
-* [day-04]()
+* [Day-00](/markdownfiles/week-1/day00.md)
+* [Day-01](/markdownfiles/week-1/day0.md)
+* [Day-02](/markdownfiles/week-1/day02.md)
+* [Day-03](/markdownfiles/week-1/day03.md)
+* [day-04](/markdownfiles/week-1/day04.md)
+* [day-05](/markdownfiles/week-1/day05.md)
 
 # Week-2
 
-* [Day-00]()
-* [Day-01]()
-* [Day-02]()
-* [Day-03]()
-* [day-04]()
+* [Day-00](/markdownfiles/week-2/day00.md)
+* [Day-01](/markdownfiles/week-2/day01.md)
+* [Day-02](/markdownfiles/week-2/day02.md)
+* [Day-03](/markdownfiles/week-2/day03.md)
+* [day-04](/markdownfiles/week-2/day04.md)
+* [day-05](/markdownfiles/week-2/day05.md)
 # Week-3
 
 * [Day-00]()

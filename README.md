@@ -1,25 +1,30 @@
 # webDevJourney
 
 This repository is all about my journey towards learning & mastering web development
+
+# HTML
 * [week-0](#week-0) :Learn About web,frontend development tools,HTML & solve some challanges
 * [week-1](#week-1) :
-* [week-2](#week-2) : 
+
+# CSS
+* [week-0](#week-0) :
+* [week-1](#week-1) :
+* [week-2](#week-2) :
+* [week-3](#week-3) :
+* [week-4](#week-4) :
+
+# Javascript
+* [week-0](#week-0) :
+* [week-1](#week-1) :
+* [week-2](#week-2) :
 * [week-3](#week-3) :
 * [week-4](#week-4) :
 * [week-5](#week-5) :
-* [week-6](#week-6) :
-* [week-7](#week-7) :
-* [week-8](#week-8) :
-* [week-9](#week-9) :
-* [week-10](#week-10) :
-* [week-11](#week-11) :
-* [week-12](#week-12) :
-* [week-13](#week-13) :
 
-# Resources to practice:
-[30DaysChallenges](https://dev.to/somanathgoudar/30dayschallenge-30-days-extreme-html-css-challenge-50k1)
+# Resources for practice:
+[Click here](https://dev.to/somanathgoudar/30dayschallenge-30-days-extreme-html-css-challenge-50k1)
 
-# Week-0
+# HTML Week-0
 
 * [Day-00](/markdownfiles/week-0/day00.md)
 * [Day-01](/markdownfiles/week-0/day01.md)
@@ -28,7 +33,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04](/markdownfiles/week-0/day04.md)
 * [Day-05](/markdownfiles/week-0/day05.md)
 
-# Week-1
+# HTML Week-1
 
 * [Day-00](/markdownfiles/week-1/day00.md)
 * [Day-01](/markdownfiles/week-1/day0.md)
@@ -37,7 +42,8 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04](/markdownfiles/week-1/day04.md)
 * [Day-05](/markdownfiles/week-1/day05.md)
 
-# Week-2
+
+# CSS Week-0
 
 * [Day-00](/markdownfiles/week-2/day00.md)
 * [Day-01](/markdownfiles/week-2/day01.md)
@@ -46,7 +52,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04](/markdownfiles/week-2/day04.md)
 * [Day-05](/markdownfiles/week-2/day05.md)
 
-# Week-3
+# CSS Week-1
 
 * [Day-00]()
 * [Day-01]()
@@ -55,7 +61,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04]()
 * [Day-05]()
 
-# Week-4
+# CSS Week-2
 
 * [Day-00]()
 * [Day-01]()
@@ -64,7 +70,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04]()
 * [Day-05]()
 
-# Week-5
+# CSS Week-3
 
 * [Day-00]()
 * [Day-01]()
@@ -73,7 +79,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04]()
 * [Day-05]()
 
-# Week-6
+# CSS Week-4
 
 * [Day-00]()
 * [Day-01]()
@@ -82,7 +88,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04]()
 * [Day-05]()
 
-# Week-7
+# Javascript Week-0
 
 * [Day-00]()
 * [Day-01]()
@@ -91,7 +97,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04]()
 * [Day-05]()
 
-# Week-8
+# Javascript Week-1
 
 * [Day-00]()
 * [Day-01]()
@@ -100,7 +106,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04]()
 * [Day-05]()
 
-# Week-9
+# Javascript Week-2
 
 * [Day-00]()
 * [Day-01]()
@@ -109,7 +115,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04]()
 * [Day-05]()
 
-# Week-10
+# Javascript Week-3
 
 * [Day-00]()
 * [Day-01]()
@@ -118,7 +124,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04]()
 * [Day-05]()
 
-# Week-11
+# Javascript Week-4
 
 * [Day-00]()
 * [Day-01]()
@@ -127,7 +133,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04]()
 * [Day-05]()
 
-# Week-12
+#  Javascript Week-5
 
 * [Day-00]()
 * [Day-01]()
@@ -136,7 +142,7 @@ This repository is all about my journey towards learning & mastering web develop
 * [Day-04]()
 * [Day-05]()
 
-# Week-13
+# Projects Week
 
 * [Day-00]()
 * [Day-01]()

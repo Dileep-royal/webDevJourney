@@ -3,11 +3,11 @@
 This repository is all about my journey towards learning & mastering web development
 
 # HTML
-* [week-0](##html-week-0) :Learn About web,frontend development tools,HTML & solve some challanges
+* [week-0](#html-week-0) :Learn About web,frontend development tools,HTML & solve some challanges
 * [week-1](#html-week-1) :
 
 # CSS
-* [week-0](css-#week-0) :
+* [week-0](#css-week-0) :
 * [week-1](#css-week-1) :
 * [week-2](#css-week-2) :
 * [week-3](#css-week-3) :

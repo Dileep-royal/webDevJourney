@@ -3,8 +3,8 @@
 This repository is all about my journey towards learning & mastering web development
 
 # HTML
-* [week-0](#HTML week-0) :Learn About web,frontend development tools,HTML & solve some challanges
-* [week-1](#HTML week-1) :
+* [week-0](#HTMLweek-0) :Learn About web,frontend development tools,HTML & solve some challanges
+* [week-1](#HTMLweek-1) :
 
 # CSS
 * [week-0](#week-0) :

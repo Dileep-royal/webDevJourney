@@ -10,10 +10,12 @@
 ` <meta name="viewport" content="width=device-width ,intial-scale=1">`
 * To add description about the site that can be shown in search engine results.
 ` <meta name="description" content="description about site goes here">`
-* gives a name to webpage when it is saved to home screen,to specify title image and background color.
-```HTML <meta name="application-name" content="application name goes here">
-   <meta name="msapplication-TileImage" content="path of the image">
-```
+* gives a name to webpage when it is saved to home screen,to specify title image and background color.  
+
+```<meta name="application-name" content="application name goes here">
+   <meta name="msapplication-TileImage" content="path of the image">  
+```  
+
 * to import and show social media linking special cards.
 * contains link and script element
 * link element have attributes like href and rel. rel defines type type of assest to load e.g icon,stylesheet,preload.
@@ -24,7 +26,8 @@ forms are used for user registration,surveys,bookings
 * fieldset,legend -To organize &group  specific related parts and give the title to group.
 * use implicit labels for check boxes and radio buttons,explicit for remaining input.
 * data list slection vs normal selection
-* data list provides a user flexibility to enter a new input other than given options.
+* data list provides a user flexibility to enter a new input other than given options.  
+
 **Input attributes**
 * value
 * readonly

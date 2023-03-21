@@ -7,12 +7,12 @@
 # meta Element
 * used it to specify character set e.g: utf-8
 * used to morphe the layout to fit in small screens like mobile & have attributes like name,content,etc.
-`HTML <meta name="viewport" content="width=device-width ,intial-scale=1">`
+` <meta name="viewport" content="width=device-width ,intial-scale=1">`
 * To add description about the site that can be shown in search engine results.
-`HTML <meta name="description" content="description about site goes here">`
+` <meta name="description" content="description about site goes here">`
 * gives a name to webpage when it is saved to home screen,to specify title image and background color.
 ```HTML <meta name="application-name" content="application name goes here">
-   <meta name="msapplication-TileImage" content="path of the image">`
+   <meta name="msapplication-TileImage" content="path of the image">
 ```
 * to import and show social media linking special cards.
 * contains link and script element

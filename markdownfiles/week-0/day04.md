@@ -12,8 +12,9 @@
 ` <meta name="description" content="description about site goes here">`
 * gives a name to webpage when it is saved to home screen,to specify title image and background color.  
 
-```<meta name="application-name" content="application name goes here">
-   <meta name="msapplication-TileImage" content="path of the image">  
+```HTML
+<meta name="application-name" content="application name goes here">
+<meta name="msapplication-TileImage" content="path of the image">  
 ```  
 
 * to import and show social media linking special cards.

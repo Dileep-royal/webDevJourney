@@ -17,7 +17,7 @@
 <meta name="msapplication-TileImage" content="path of the image">  
 ```  
 
-* to import and show social media linking special cards.
+* to import and show social media linking special cards like twitter,github,linkedin,etc.
 * contains link and script element
 * link element have attributes like href and rel. rel defines type type of assest to load e.g icon,stylesheet,preload.
 * script have src attribute to link javascript file to html.
@@ -45,3 +45,5 @@ forms are used for user registration,surveys,bookings
 * max
 * min
 * step
+
+Continued on day-05

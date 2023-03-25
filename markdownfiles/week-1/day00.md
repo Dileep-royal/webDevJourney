@@ -9,7 +9,8 @@
 1. Styling labels and input
 2. Focus styles  
 
-Here is a -[Example](https://codepen.io/Dileep-royal/pen/OJorKRM)
+Here is a -[Example](https://codepen.io/Dileep-royal/pen/OJorKRM)  
+
 3. pseudo class selector
    It is a phantom state or specific characteristic of the element that can be targeted with CSS.
    Used to define the special state of an element.
@@ -26,7 +27,8 @@ Here is a -[Example](https://codepen.io/Dileep-royal/pen/OJorKRM)
    * :hover
    * :before and :after   
  
-Here is a -[Example](https://codepen.io/Dileep-royal/pen/ZEMwQxo) 
+Here is a -[Example](https://codepen.io/Dileep-royal/pen/ZEMwQxo)   
+
 4. Custom checkboxes
  use font awesome
  

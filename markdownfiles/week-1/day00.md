@@ -7,7 +7,8 @@
 
 # Form Specific CSS
 1. Styling labels and input
-2. Focus styles
+2. Focus styles  
+
 Here is a -[Example](https://codepen.io/Dileep-royal/pen/OJorKRM)
 3. pseudo class selector
    It is a phantom state or specific characteristic of the element that can be targeted with CSS.
@@ -23,7 +24,8 @@ Here is a -[Example](https://codepen.io/Dileep-royal/pen/OJorKRM)
    * :read-write
    * :indeterminate
    * :hover
-   * :before and :after
+   * :before and :after   
+ 
 Here is a -[Example](https://codepen.io/Dileep-royal/pen/ZEMwQxo) 
 4. Custom checkboxes
  use font awesome
